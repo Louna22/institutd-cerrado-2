@@ -1,24 +1,28 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/actualites/"
+- title: Machines
+  target: "/accueil/"
   kind: page
   children: []
-- title: Agenda
-  target: "/agenda/"
+- title: Données scientifiques
+  target: "/donnees-scientifiques/"
   kind: page
   children: []
-- title: Projets
-  target: "/projets/"
+- title: Paysages
+  target: "/paysages/"
   kind: page
   children: []
-- title: Équipe
-  target: "/equipe/"
+- title: Témoignages
+  target: "/temoignages/"
   kind: page
   children: []
-- title: Organisations
-  target: "/organisations/"
+- title: Cartes postales  sonores
+  target: "/cartes-postales-sonores/"
+  kind: page
+  children: []
+- title: Cordéis
+  target: "/cordel/"
   kind: page
   children: []
 
